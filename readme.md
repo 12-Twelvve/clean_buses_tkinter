@@ -25,7 +25,7 @@ $ python3 clean.py
 ```
 
 ## Author
-- your name
+- samita 
 
 
 ## License
